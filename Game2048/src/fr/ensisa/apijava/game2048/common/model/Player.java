@@ -12,7 +12,7 @@ public class Player {
 	public Player(String name, String image){
 		this.name=name;
 		this.image=image;
-		
+		//hiuhuhuygt
 	}
 
 	public String getName() {
